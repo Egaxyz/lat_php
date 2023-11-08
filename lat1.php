@@ -1,4 +1,6 @@
 <?php
-echo "Hello !";
+//1 line
+echo "Hello";
+
 
 ?>
